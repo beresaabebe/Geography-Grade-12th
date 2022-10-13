@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671148838726",
+    "project_id": "geography-grade-12-textbook",
+    "storage_bucket": "geography-grade-12-textbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671148838726:android:b77426800cbb47cfa31f47",
+        "android_client_info": {
+          "package_name": "com.beckytech.geographygreade12textbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671148838726-bitv0r1kprvbfjh81g2coi6fmbuq0177.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS7JEPwCfVn5gn54BLVxM7y8z2fKHNSHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671148838726-bitv0r1kprvbfjh81g2coi6fmbuq0177.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
